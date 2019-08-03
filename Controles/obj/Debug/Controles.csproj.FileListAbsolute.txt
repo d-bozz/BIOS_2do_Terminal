@@ -1,0 +1,160 @@
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Controles\bin\Debug\Controles.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Controles\bin\Debug\Controles.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Controles\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Controles\obj\Debug\Controles.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.5\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Controles\obj\Debug\Controles.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Controles\bin\Debug\Controles.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Controles\bin\Debug\Controles.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Controles\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Controles\obj\Debug\Controles.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.8\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Controles\obj\Debug\Controles.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Controles\bin\Debug\Controles.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Controles\bin\Debug\Controles.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Controles\bin\Debug\Controles.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Controles\bin\Debug\Controles.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\tm-01\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.1\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.3\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.4\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.0\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.1\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.2\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Controles\obj\Debug\Controles.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Controles\bin\Debug\Controles.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Controles\bin\Debug\Controles.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Controles\obj\Debug\Controles.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Controles\obj\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\obj\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Controles\obj\Debug\Controles.pdb
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\bin\Debug\Controles.dll
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\bin\Debug\Controles.pdb
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\ResolveAssemblyReference.cache
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\GenerateResource.read.1.tlog
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\GenerateResource.write.1.tlog
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.dll
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\bin\Debug\Controles.dll
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\bin\Debug\Controles.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.dll
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Controles\obj\Debug\Controles.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\bin\Debug\Controles.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\bin\Debug\Controles.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\obj\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\obj\Debug\Controles.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Controles\obj\Debug\Controles.pdb

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3B6CE8B4-8E1A-4EF6-B388-94899F2843BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Administracion</RootNamespace>
+    <AssemblyName>Administracion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABMCompanias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMCompanias.Designer.cs">
+      <DependentUpon>ABMCompanias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMEmpleado.Designer.cs">
+      <DependentUpon>ABMEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMTerminal.Designer.cs">
+      <DependentUpon>ABMTerminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMViajesInternacionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMViajesInternacionales.designer.cs">
+      <DependentUpon>ABMViajesInternacionales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMViajesNacionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMViajesNacionales.designer.cs">
+      <DependentUpon>ABMViajesNacionales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas.Designer.cs">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web References\Servicio\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ABMCompanias.resx">
+      <DependentUpon>ABMCompanias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMEmpleado.resx">
+      <DependentUpon>ABMEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMTerminal.resx">
+      <DependentUpon>ABMTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMViajesInternacionales.resx">
+      <DependentUpon>ABMViajesInternacionales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMViajesNacionales.resx">
+      <DependentUpon>ABMViajesNacionales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadisticas.resx">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\Servicio\Compania.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Servicio\Destino.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Servicio\Empleado.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Servicio\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\Servicio\ServicioTerminal.wsdl" />
+    <None Include="Web References\Servicio\Viaje.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controles\Controles.csproj">
+      <Project>{58969BAF-08F2-4076-9CD3-CEBB5A0EB435}</Project>
+      <Name>Controles</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile-Menu-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoTerminal.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\err.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:2532/ServicioWeb/ServicioTerminal.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Servicio\</RelPath>
+      <UpdateFromURL>http://localhost:2532/ServicioWeb/ServicioTerminal.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Administracion_Servicio_ServicioTerminal</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\Servicio\ServicioTerminal.disco" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

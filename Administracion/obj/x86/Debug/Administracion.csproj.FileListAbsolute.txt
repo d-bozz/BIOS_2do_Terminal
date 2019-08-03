@@ -1,0 +1,525 @@
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.3\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.4\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Controles.TextBoxSoloNumeros.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 1.5\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.5\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\bin\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\bin\Debug\Administracion.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\bin\Debug\Controles.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\bin\Debug\Controles.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Administracion\obj\x86\Debug\Administracion.pdb
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.exe.config
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.exe
+F:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.exe.config
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.exe
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.exe
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Controles.dll
+G:\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.5\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.6\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.7\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.8\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 2.9\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.exe.config
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\bin\Debug\Administracion.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\bin\Debug\Controles.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\bin\Debug\Controles.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMCompanias.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMEmpleado.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMTerminal.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMViajesInternacionales.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.ABMViajesNacionales.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Estadisticas.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Login.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Menu.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.Properties.Resources.resources
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.csproj.GenerateResource.Cache
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.exe
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Administracion\obj\x86\Debug\Administracion.pdb

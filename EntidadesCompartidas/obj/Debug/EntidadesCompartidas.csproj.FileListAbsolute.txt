@@ -1,0 +1,201 @@
+C:\Users\sistemas\Desktop\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Desktop\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\tm-01\Desktop\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Desktop\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Desktop\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Desktop\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\Terminal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\Terminal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 3.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 3.1\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 3.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 4.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.8\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\tm-01\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\Terminal Windows 2.1\Terminal Windows 2.1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

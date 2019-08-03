@@ -1,0 +1,495 @@
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal\Logica\obj\Debug\Logica.pdb
+C:\Users\tm-01\Desktop\Terminal\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tm-01\Desktop\Terminal\Logica\obj\Debug\Logica.dll
+C:\Users\tm-01\Desktop\Terminal\Logica\obj\Debug\Logica.pdb
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\Logica.dll
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\Logica.pdb
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\Persistencia.dll
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Desktop\Terminal\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal\Terminal\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Terminal 3.0\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 3.1\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 3.2\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 3.3\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal 3.4\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.2\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 4.3\Logica\obj\Debug\Logica.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\Logica.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\Logica.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\Persistencia.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\bin\Debug\Persistencia.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\obj\Debug\Logica.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.4\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.5\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.6\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 4.7\Logica\obj\Debug\Logica.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\Logica.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\Logica.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\EntidadesCompartidas.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\Persistencia.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\bin\Debug\Persistencia.pdb
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\obj\Debug\Logica.dll
+F:\pendrive\Bios\Analista Programador\Nueva carpeta\Obligatorio\Terminal 4.7.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 4.8\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\Logica.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\Logica.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.dll
+C:\Users\tm-01\Downloads\Terminal 5.0\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.3\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Downloads\Terminal 5.3\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.4\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.5\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\1er obligatorio\Terminal 5.6\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.7\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.8\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 5.9\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.0\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal 6.2\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.0\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\C#\2018\Obligatorios\2do\Terminal Windows 1.2.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Downloads\Terminal Windows 1.3.1\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.3.2\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Terminal Windows 1.4.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.2\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.5\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 1.4.6\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.4.6.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.5 - nuevo control\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\asdf\Terminal Windows 1.6\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 1.7\Logica\obj\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\Logica.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\obj\Debug\Logica.dll
+C:\Users\Bardesio\Desktop\Terminal Windows 2.0\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.1\Terminal Windows 2.1\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.2\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 2.3\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\Terminal Windows 3.0\Logica\obj\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\Logica.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\Persistencia.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\bin\Debug\Persistencia.pdb
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\obj\Debug\Logica.dll
+C:\Users\javie_000\Desktop\Segundo Obligatorio\Terminal Windows 3.0\Logica\obj\Debug\Logica.pdb
